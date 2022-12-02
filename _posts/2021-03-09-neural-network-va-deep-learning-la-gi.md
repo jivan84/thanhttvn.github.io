@@ -102,3 +102,7 @@ Bạn có thể tham khảo trend hiện nay [tại đây](https://medium.com/@v
 # Tổng kết
 
 Tiếp nối bài trước về Perceptron, ở bài này mình đã giới thiệu với các bạn về Neural Network từ ví dụ đầy sinh động về chính bộ não con người. ^^ Và đưa đến khái niệm Deep Learning mong những kiến thức trên sẽ có ích cho bạn. Và hẹn gặp lại các bạn ở các bài viết sau tiếp tục đi sâu và rộng hơn về Deep Learning.
+
+# Link tham khảo
+
+[Học kĩ càng](https://www.scaler.com/topics/what-is-deep-learning/)
